@@ -49,7 +49,7 @@
 ---
 
 ## 📫 Connect with Me
-[LinkedIn](www.linkedin.com/in/abhijeet-kumar00)
+[LinkedIn](https://www.linkedin.com/in/abhijeet-kumar00/)
 
 ---
 
