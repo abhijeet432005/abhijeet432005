@@ -44,7 +44,7 @@
 ---
 
 ## 📊 GitHub Stats
-![Abhijeet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhijeet-kumar&show_icons=true&theme=radical)
+![Abhijeet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhijeet432005&show_icons=true&theme=radical)
 
 ---
 
