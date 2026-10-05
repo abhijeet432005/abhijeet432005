@@ -7,7 +7,7 @@
   <a href="https://github.com/abhijeet432005"><img src="https://komarev.com/ghpvc/?username=abhijeet432005&label=Profile%20Views&color=8A2BE2&style=flat-square" alt="views" /></a>
   <a href="https://www.linkedin.com/in/abhijeet-kumar00/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin" /></a>
   <a href="mailto:abhijeet44kumar@gmail.com"><img src="https://img.shields.io/badge/Email-Hire%20Me-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="email" /></a>
-  <a href="https://abhijeet-kumar.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-FF4D8D?style=flat-square&logo=vercel&logoColor=white" alt="portfolio" /></a>
+  <a href="https://abhijeet-tech.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-FF4D8D?style=flat-square&logo=vercel&logoColor=white" alt="portfolio" /></a>
 </p>
 <!-- TODO: replace the Portfolio link above with your real URL -->
 
@@ -110,7 +110,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhijeet432005&theme=radical&hide_border=true" alt="streak" />
+  <img src="https://streak-stats.demolab.com/?user=abhijeet432005&theme=radical&hide_border=true" alt="streak" />
 </p>
 
 ---
