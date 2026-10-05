@@ -110,7 +110,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=abhijeet432005&theme=radical&hide_border=true" alt="streak" />
+  <img src="https://streak-stats.demolab.com/?user=abhijeet432005&theme=radical&hide_border=true&utm_source=chatgpt.com" alt="streak" />
 </p>
 
 ---
